@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cindydii.github.io</id>
+    <id>https://www.xindicao.com</id>
     <title>Cao Xindi</title>
-    <updated>2021-06-17T13:45:29.446Z</updated>
+    <updated>2021-06-17T13:46:11.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cindydii.github.io"/>
-    <link rel="self" href="https://cindydii.github.io/atom.xml"/>
+    <link rel="alternate" href="https://www.xindicao.com"/>
+    <link rel="self" href="https://www.xindicao.com/atom.xml"/>
     <subtitle>Dance</subtitle>
-    <logo>https://cindydii.github.io/images/avatar.png</logo>
-    <icon>https://cindydii.github.io/favicon.ico</icon>
+    <logo>https://www.xindicao.com/images/avatar.png</logo>
+    <icon>https://www.xindicao.com/favicon.ico</icon>
     <rights>All rights reserved 2021, Cao Xindi</rights>
     <entry>
         <title type="html"><![CDATA[Popular Mechanics]]></title>
-        <id>https://cindydii.github.io/post/popular-mechanics/</id>
-        <link href="https://cindydii.github.io/post/popular-mechanics/">
+        <id>https://www.xindicao.com/post/popular-mechanics/</id>
+        <link href="https://www.xindicao.com/post/popular-mechanics/">
         </link>
         <updated>2021-06-17T08:51:58.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cindydii.github.io/post-images/1623919951192.jpeg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://www.xindicao.com/post-images/1623919951192.jpeg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[test cxd]]></title>
-        <id>https://cindydii.github.io/post/test-cxd/</id>
-        <link href="https://cindydii.github.io/post/test-cxd/">
+        <id>https://www.xindicao.com/post/test-cxd/</id>
+        <link href="https://www.xindicao.com/post/test-cxd/">
         </link>
         <updated>2021-06-17T08:33:53.000Z</updated>
         <content type="html"><![CDATA[<p>body</p>
-<figure data-type="image" tabindex="1"><img src="https://cindydii.github.io/post-images/1623918862740.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://www.xindicao.com/post-images/1623918862740.jpeg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://cindydii.github.io/post/hello-gridea/</id>
-        <link href="https://cindydii.github.io/post/hello-gridea/">
+        <id>https://www.xindicao.com/post/hello-gridea/</id>
+        <link href="https://www.xindicao.com/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
