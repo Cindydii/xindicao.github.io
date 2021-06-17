@@ -2,11 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.xindicao.com</id>
     <title>Cao Xindi</title>
-    <updated>2021-06-17T15:02:04.713Z</updated>
+    <updated>2021-06-17T15:08:47.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.xindicao.com"/>
     <link rel="self" href="https://www.xindicao.com/atom.xml"/>
-    <subtitle>Dance</subtitle>
+    <subtitle>When we stop dancing, we truely start to dance.
+当我们有一天不跳舞了，我们才可能真的开始跳舞</subtitle>
     <logo>https://www.xindicao.com/images/avatar.png</logo>
     <icon>https://www.xindicao.com/favicon.ico</icon>
     <rights>All rights reserved 2021, Cao Xindi</rights>
@@ -16,34 +17,6 @@
         <link href="https://www.xindicao.com/post/yi-xie-bao-yan-yi-yi-zhu-zhi-ming-fan-yi-zhu/">
         </link>
         <updated>2021-06-17T14:54:42.000Z</updated>
-        <content type="html"><![CDATA[<p>一定要表现出来吗？表现出来就是真的？木头人就是假的？<br>
-不表现的存在。不显现的存在。</p>
-<p>现代主义太想表现，后现代主义太想求新。但当我们只想着表现，只想着求新，有可能是在跃进。就像让一个内向的人一下子解放天性。</p>
-<p>为了做艺术而做艺术，和为了赚钱而学商科没有本质区别（救命，夺么冒犯的话）<br>
-我们离我们最鄙夷的功利主义有多远？</p>
-<p>做艺术的思维可以不是表现。而不表现做出来的东西是不是“艺术”，就不好说了。</p>
-<p>不是说，我们都要去思考，不要做艺术。而是说，无所谓做不做艺术，也无所谓做不做哲学。超越这个界限。生命活力可以以任何形式。可以是涵藏一切的沉寂。</p>
-<p>最完整的是不表现。</p>
-<p>（哲学里全是理性。这可能是假象。）<br>
-（我仍然相信艺术里有最大程度的真实。）</p>
-<p>那个东西 是什么 没有办法用作为学科和形式的哲学、艺术定义。而这也是在哲学、艺术之上讨论它的必要性。我们无法给出答案，无法概括出答案。<br>
-没有什么能给我们答案。艺术不行，哲学也不行。这就是我们做艺术、做哲学的原因。</p>
-<p>于是，可以重新思考艺术和哲学的冲撞。消解哲学和艺术的对立。</p>
-<p>避免成为“观念”艺术家，避免哲学的恶习。就是：我进入了，不仅仅是尝试，不仅仅是研究性体验。当然这本身也太困难。我做不到。<br>
-但至少，反艺术建立在做艺术的“做”的基础上。</p>
-<p>听朋友说她的一个特别好的舞蹈老师，有段时间他厌恶舞蹈。（他现在教课，不做作品，但说他一直处于创作的状态。）<br>
-我可不可以厌恶哲学。在厌恶中，我投入它的怀抱。在厌恶中，我清楚我不能离开它。</p>
-<p>所以可以彻底不做艺术。这就是做艺术。它是艺术之名的一部分。<br>
-当我们有一天，不跳舞了。我们可能，才真的开始跳舞。</p>
-<p>这可是<br>
-万物奥义在大地呀<br>
-在无</p>
-<p>为了反艺术，我们必须“那么想做艺术”。</p>
-<p>现代，后现代 一直在反反反 叛逆叛逆叛逆<br>
-之后要怎样<br>
-除非 直到 反艺术不是叛逆</p>
-<p>让我们以艺术之名反艺术。</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[化]]></title>
@@ -51,9 +24,6 @@
         <link href="https://www.xindicao.com/post/hua/">
         </link>
         <updated>2021-06-17T14:37:12.000Z</updated>
-        <content type="html"><![CDATA[<p>dancer<br>
-<img src="https://www.xindicao.com/post-images/1623940697575.png" alt="" loading="lazy"></p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知行合一]]></title>
@@ -61,9 +31,6 @@
         <link href="https://www.xindicao.com/post/zhi-xing-he-yi/">
         </link>
         <updated>2021-06-17T14:35:46.000Z</updated>
-        <content type="html"><![CDATA[<p>choreographer, performer<br>
-<img src="https://www.xindicao.com/post-images/1623940958119.JPG" alt="" loading="lazy"></p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[14 Days as an Island]]></title>
@@ -82,7 +49,6 @@
 <img src="https://www.xindicao.com/post-images/1623941484695.png" alt="" loading="lazy"><br>
 <img src="https://www.xindicao.com/post-images/1623941490868.png" alt="" loading="lazy"><br>
 <img src="https://www.xindicao.com/post-images/1623941498338.png" alt="" loading="lazy"></p>
-<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -91,13 +57,6 @@
         <link href="https://www.xindicao.com/post/popular-mechanics/">
         </link>
         <updated>2021-06-17T08:51:58.000Z</updated>
-        <content type="html"><![CDATA[<p>performer</p>
-<p>director: Jianjun Li<br>
-<img src="https://www.xindicao.com/post-images/1623941023731.jpeg" alt="" loading="lazy"><br>
-<img src="https://www.xindicao.com/post-images/1623941380433.jpeg" alt="" loading="lazy"><br>
-<img src="https://www.xindicao.com/post-images/1623941389506.jpeg" alt="" loading="lazy"><br>
-<img src="https://www.xindicao.com/post-images/1623941396416.jpeg" alt="" loading="lazy"></p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[This Is How I]]></title>
@@ -105,40 +64,5 @@
         <link href="https://www.xindicao.com/post/this is how i/">
         </link>
         <updated>2021-06-17T08:33:53.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://www.xindicao.com/post-images/1623938891184.png" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="2"><img src="https://www.xindicao.com/post-images/1623918862740.jpeg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://www.xindicao.com/post/hello-gridea/</id>
-        <link href="https://www.xindicao.com/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
-]]></content>
     </entry>
 </feed>
