@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.xindicao.com</id>
     <title>Cao Xindi</title>
-    <updated>2021-06-17T16:24:49.007Z</updated>
+    <updated>2021-06-18T05:47:02.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.xindicao.com"/>
     <link rel="self" href="https://www.xindicao.com/atom.xml"/>
@@ -38,18 +38,6 @@
         <link href="https://www.xindicao.com/post/14-days-as-an-island/">
         </link>
         <updated>2021-06-17T14:33:08.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="https://www.xindicao.com/post-images/1623941427978.jpg" alt="" loading="lazy"><br>
-<img src="https://www.xindicao.com/post-images/1623941437183.png" alt="" loading="lazy"><br>
-<img src="https://www.xindicao.com/post-images/1623941484695.png" alt="" loading="lazy"><br>
-<img src="https://www.xindicao.com/post-images/1623941490868.png" alt="" loading="lazy"><br>
-<img src="https://www.xindicao.com/post-images/1623941498338.png" alt="" loading="lazy"></p>
-]]></summary>
-        <content type="html"><![CDATA[<p><img src="https://www.xindicao.com/post-images/1623941427978.jpg" alt="" loading="lazy"><br>
-<img src="https://www.xindicao.com/post-images/1623941437183.png" alt="" loading="lazy"><br>
-<img src="https://www.xindicao.com/post-images/1623941484695.png" alt="" loading="lazy"><br>
-<img src="https://www.xindicao.com/post-images/1623941490868.png" alt="" loading="lazy"><br>
-<img src="https://www.xindicao.com/post-images/1623941498338.png" alt="" loading="lazy"></p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Popular Mechanics]]></title>
