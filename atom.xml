@@ -2,55 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.xindicao.com</id>
     <title>Cao Xindi</title>
-    <updated>2021-06-24T06:53:17.618Z</updated>
+    <updated>2021-08-23T08:37:15.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.xindicao.com"/>
     <link rel="self" href="https://www.xindicao.com/atom.xml"/>
-    <subtitle>When we stop dancing, we truly start to dance.
-当我们有一天不跳舞了，我们才可能真的开始跳舞</subtitle>
+    <subtitle>当我们有一天不跳舞了，我们才可能真的开始跳舞 When we stop dancing, we truly start to dance.</subtitle>
     <logo>https://www.xindicao.com/images/avatar.png</logo>
     <icon>https://www.xindicao.com/favicon.ico</icon>
     <rights>All rights reserved 2021, Cao Xindi</rights>
+    <entry>
+        <title type="html"><![CDATA[上半年看过的剧场作品，以及为什么不再写舞评]]></title>
+        <id>https://www.xindicao.com/post/shang-ban-nian-kan-guo-de-ju-chang-zuo-pin-yi-ji-wei-shi-me-bu-zai-xie-wu-ping/</id>
+        <link href="https://www.xindicao.com/post/shang-ban-nian-kan-guo-de-ju-chang-zuo-pin-yi-ji-wei-shi-me-bu-zai-xie-wu-ping/">
+        </link>
+        <updated>2021-06-27T08:21:30.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一些暴言：以艺术之名反艺术]]></title>
         <id>https://www.xindicao.com/post/yi-xie-bao-yan-yi-yi-zhu-zhi-ming-fan-yi-zhu/</id>
         <link href="https://www.xindicao.com/post/yi-xie-bao-yan-yi-yi-zhu-zhi-ming-fan-yi-zhu/">
         </link>
-        <updated>2021-06-17T14:54:42.000Z</updated>
+        <updated>2021-04-17T14:54:42.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[化]]></title>
-        <id>https://www.xindicao.com/post/hua/</id>
-        <link href="https://www.xindicao.com/post/hua/">
+        <title type="html"><![CDATA[换种方式做舞评 | 我们谈论的是关于我们谈论的是关于未来]]></title>
+        <id>https://www.xindicao.com/post/huan-chong-fang-shi-zuo-wu-ping-or-wo-men-tan-lun-de-shi-guan-yu-wo-men-tan-lun-de-shi-guan-yu-wei-lai/</id>
+        <link href="https://www.xindicao.com/post/huan-chong-fang-shi-zuo-wu-ping-or-wo-men-tan-lun-de-shi-guan-yu-wo-men-tan-lun-de-shi-guan-yu-wei-lai/">
         </link>
-        <updated>2021-06-17T14:37:12.000Z</updated>
+        <updated>2020-10-31T08:35:26.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[知行合一]]></title>
-        <id>https://www.xindicao.com/post/zhi-xing-he-yi/</id>
-        <link href="https://www.xindicao.com/post/zhi-xing-he-yi/">
+        <title type="html"><![CDATA[“观念”的危险——面对“不知所云艺术家”]]></title>
+        <id>https://www.xindicao.com/post/guan-nian-de-wei-xian-mian-dui-bu-zhi-suo-yun-yi-zhu-jia/</id>
+        <link href="https://www.xindicao.com/post/guan-nian-de-wei-xian-mian-dui-bu-zhi-suo-yun-yi-zhu-jia/">
         </link>
-        <updated>2021-06-17T14:35:46.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14 Days as an Island]]></title>
-        <id>https://www.xindicao.com/post/14-days-as-an-island/</id>
-        <link href="https://www.xindicao.com/post/14-days-as-an-island/">
-        </link>
-        <updated>2021-06-17T14:33:08.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Popular Mechanics]]></title>
-        <id>https://www.xindicao.com/post/popular-mechanics/</id>
-        <link href="https://www.xindicao.com/post/popular-mechanics/">
-        </link>
-        <updated>2021-06-17T08:51:58.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Is How I]]></title>
-        <id>https://www.xindicao.com/post/this is how i/</id>
-        <link href="https://www.xindicao.com/post/this is how i/">
-        </link>
-        <updated>2021-06-17T08:33:53.000Z</updated>
+        <updated>2020-04-07T08:28:21.000Z</updated>
     </entry>
 </feed>
