@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.xindicao.com</id>
+    <id>https://cindydii.github.io/xindicao.github.io/</id>
     <title>Cao Xindi</title>
-    <updated>2022-03-15T05:14:20.692Z</updated>
+    <updated>2022-08-28T09:45:18.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.xindicao.com"/>
-    <link rel="self" href="https://www.xindicao.com/atom.xml"/>
+    <link rel="alternate" href="https://cindydii.github.io/xindicao.github.io/"/>
+    <link rel="self" href="https://cindydii.github.io/xindicao.github.io/atom.xml"/>
     <subtitle>当我们有一天不跳舞了，我们才可能真的开始跳舞 When we stop dancing, we truly start to dance.</subtitle>
-    <logo>https://www.xindicao.com/images/avatar.png</logo>
-    <icon>https://www.xindicao.com/favicon.ico</icon>
+    <logo>https://cindydii.github.io/xindicao.github.io/images/avatar.png</logo>
+    <icon>https://cindydii.github.io/xindicao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Cao Xindi</rights>
     <entry>
         <title type="html"><![CDATA[夹层 | 只要这帮最激进的人都去做剧场了，社会就稳定了。]]></title>
-        <id>https://www.xindicao.com/post/jia-ceng-or-zhi-yao-zhe-bang-zui-ji-jin-de-ren-du-qu-zuo-ju-chang-liao-she-hui-jiu-wen-ding-liao/</id>
-        <link href="https://www.xindicao.com/post/jia-ceng-or-zhi-yao-zhe-bang-zui-ji-jin-de-ren-du-qu-zuo-ju-chang-liao-she-hui-jiu-wen-ding-liao/">
+        <id>https://cindydii.github.io/xindicao.github.io/post/jia-ceng-or-zhi-yao-zhe-bang-zui-ji-jin-de-ren-du-qu-zuo-ju-chang-liao-she-hui-jiu-wen-ding-liao/</id>
+        <link href="https://cindydii.github.io/xindicao.github.io/post/jia-ceng-or-zhi-yao-zhe-bang-zui-ji-jin-de-ren-du-qu-zuo-ju-chang-liao-she-hui-jiu-wen-ding-liao/">
         </link>
         <updated>2022-02-23T05:08:45.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[这是一篇舞评。但作品叫什么不能说。]]></title>
-        <id>https://www.xindicao.com/post/zhe-shi-yi-pian-wu-ping-dan-zuo-pin-jiao-shi-me-bu-neng-shuo/</id>
-        <link href="https://www.xindicao.com/post/zhe-shi-yi-pian-wu-ping-dan-zuo-pin-jiao-shi-me-bu-neng-shuo/">
+        <id>https://cindydii.github.io/xindicao.github.io/post/zhe-shi-yi-pian-wu-ping-dan-zuo-pin-jiao-shi-me-bu-neng-shuo/</id>
+        <link href="https://cindydii.github.io/xindicao.github.io/post/zhe-shi-yi-pian-wu-ping-dan-zuo-pin-jiao-shi-me-bu-neng-shuo/">
         </link>
         <updated>2021-11-28T12:25:43.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[夹层 | 撸猫是不是也是一种CI]]></title>
-        <id>https://www.xindicao.com/post/jia-ceng-or-lu-mao-shi-bu-shi-ye-shi-yi-chong-ci/</id>
-        <link href="https://www.xindicao.com/post/jia-ceng-or-lu-mao-shi-bu-shi-ye-shi-yi-chong-ci/">
+        <id>https://cindydii.github.io/xindicao.github.io/post/jia-ceng-or-lu-mao-shi-bu-shi-ye-shi-yi-chong-ci/</id>
+        <link href="https://cindydii.github.io/xindicao.github.io/post/jia-ceng-or-lu-mao-shi-bu-shi-ye-shi-yi-chong-ci/">
         </link>
         <updated>2021-11-08T05:04:13.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[上半年看过的剧场作品，以及为什么不再写舞评]]></title>
-        <id>https://www.xindicao.com/post/shang-ban-nian-kan-guo-de-ju-chang-zuo-pin-yi-ji-wei-shi-me-bu-zai-xie-wu-ping/</id>
-        <link href="https://www.xindicao.com/post/shang-ban-nian-kan-guo-de-ju-chang-zuo-pin-yi-ji-wei-shi-me-bu-zai-xie-wu-ping/">
+        <id>https://cindydii.github.io/xindicao.github.io/post/shang-ban-nian-kan-guo-de-ju-chang-zuo-pin-yi-ji-wei-shi-me-bu-zai-xie-wu-ping/</id>
+        <link href="https://cindydii.github.io/xindicao.github.io/post/shang-ban-nian-kan-guo-de-ju-chang-zuo-pin-yi-ji-wei-shi-me-bu-zai-xie-wu-ping/">
         </link>
         <updated>2021-06-27T08:21:30.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[一些暴言：以艺术之名反艺术]]></title>
-        <id>https://www.xindicao.com/post/yi-xie-bao-yan-yi-yi-zhu-zhi-ming-fan-yi-zhu/</id>
-        <link href="https://www.xindicao.com/post/yi-xie-bao-yan-yi-yi-zhu-zhi-ming-fan-yi-zhu/">
+        <id>https://cindydii.github.io/xindicao.github.io/post/yi-xie-bao-yan-yi-yi-zhu-zhi-ming-fan-yi-zhu/</id>
+        <link href="https://cindydii.github.io/xindicao.github.io/post/yi-xie-bao-yan-yi-yi-zhu-zhi-ming-fan-yi-zhu/">
         </link>
         <updated>2021-04-17T14:54:42.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[换种方式做舞评 | 我们谈论的是关于我们谈论的是关于未来]]></title>
-        <id>https://www.xindicao.com/post/huan-chong-fang-shi-zuo-wu-ping-or-wo-men-tan-lun-de-shi-guan-yu-wo-men-tan-lun-de-shi-guan-yu-wei-lai/</id>
-        <link href="https://www.xindicao.com/post/huan-chong-fang-shi-zuo-wu-ping-or-wo-men-tan-lun-de-shi-guan-yu-wo-men-tan-lun-de-shi-guan-yu-wei-lai/">
+        <id>https://cindydii.github.io/xindicao.github.io/post/huan-chong-fang-shi-zuo-wu-ping-or-wo-men-tan-lun-de-shi-guan-yu-wo-men-tan-lun-de-shi-guan-yu-wei-lai/</id>
+        <link href="https://cindydii.github.io/xindicao.github.io/post/huan-chong-fang-shi-zuo-wu-ping-or-wo-men-tan-lun-de-shi-guan-yu-wo-men-tan-lun-de-shi-guan-yu-wei-lai/">
         </link>
         <updated>2020-10-31T08:35:26.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[被表演艺术拒绝的故事]]></title>
-        <id>https://www.xindicao.com/post/bei-biao-yan-yi-zhu-ju-jue-de-gu-shi/</id>
-        <link href="https://www.xindicao.com/post/bei-biao-yan-yi-zhu-ju-jue-de-gu-shi/">
+        <id>https://cindydii.github.io/xindicao.github.io/post/bei-biao-yan-yi-zhu-ju-jue-de-gu-shi/</id>
+        <link href="https://cindydii.github.io/xindicao.github.io/post/bei-biao-yan-yi-zhu-ju-jue-de-gu-shi/">
         </link>
         <updated>2020-04-08T05:26:50.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[“观念”的危险——面对“不知所云艺术家”]]></title>
-        <id>https://www.xindicao.com/post/guan-nian-de-wei-xian-mian-dui-bu-zhi-suo-yun-yi-zhu-jia/</id>
-        <link href="https://www.xindicao.com/post/guan-nian-de-wei-xian-mian-dui-bu-zhi-suo-yun-yi-zhu-jia/">
+        <id>https://cindydii.github.io/xindicao.github.io/post/guan-nian-de-wei-xian-mian-dui-bu-zhi-suo-yun-yi-zhu-jia/</id>
+        <link href="https://cindydii.github.io/xindicao.github.io/post/guan-nian-de-wei-xian-mian-dui-bu-zhi-suo-yun-yi-zhu-jia/">
         </link>
         <updated>2020-04-07T08:28:21.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[万物所乘——云门舞集与陶身体《交换作》所容纳的]]></title>
-        <id>https://www.xindicao.com/post/wan-wu-suo-cheng-yun-men-wu-ji-yu-tao-shen-ti-lesslessjiao-huan-zuo-greatergreater-suo-rong-na-de/</id>
-        <link href="https://www.xindicao.com/post/wan-wu-suo-cheng-yun-men-wu-ji-yu-tao-shen-ti-lesslessjiao-huan-zuo-greatergreater-suo-rong-na-de/">
+        <id>https://cindydii.github.io/xindicao.github.io/post/wan-wu-suo-cheng-yun-men-wu-ji-yu-tao-shen-ti-lesslessjiao-huan-zuo-greatergreater-suo-rong-na-de/</id>
+        <link href="https://cindydii.github.io/xindicao.github.io/post/wan-wu-suo-cheng-yun-men-wu-ji-yu-tao-shen-ti-lesslessjiao-huan-zuo-greatergreater-suo-rong-na-de/">
         </link>
         <updated>2019-11-15T05:40:24.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[那些山与那座山——观Roy Assaf Dance《一晚》之《山坡》]]></title>
-        <id>https://www.xindicao.com/post/na-xie-shan-yu-na-zuo-shan-guan-roy-assaf-dancelesslessyi-wan-greatergreater-zhi-lesslessshan-po-greatergreater/</id>
-        <link href="https://www.xindicao.com/post/na-xie-shan-yu-na-zuo-shan-guan-roy-assaf-dancelesslessyi-wan-greatergreater-zhi-lesslessshan-po-greatergreater/">
+        <id>https://cindydii.github.io/xindicao.github.io/post/na-xie-shan-yu-na-zuo-shan-guan-roy-assaf-dancelesslessyi-wan-greatergreater-zhi-lesslessshan-po-greatergreater/</id>
+        <link href="https://cindydii.github.io/xindicao.github.io/post/na-xie-shan-yu-na-zuo-shan-guan-roy-assaf-dancelesslessyi-wan-greatergreater-zhi-lesslessshan-po-greatergreater/">
         </link>
         <updated>2019-10-31T06:45:04.000Z</updated>
     </entry>
