@@ -1,152 +1,139 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" >
+
 <title>Cao Xindi</title>
-<link rel="shortcut icon" href="https://cindydii.github.io/xindicao.github.io//favicon.ico?v=1692789617146">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://cindydii.github.io/xindicao.github.io//favicon.ico?v=1692790185921">
 <link rel="stylesheet" href="https://cindydii.github.io/xindicao.github.io//styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="Cao Xindi - Atom Feed" href="https://cindydii.github.io/xindicao.github.io//atom.xml">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
 
-    <meta name="description" content="当我们有一天不跳舞了，我们才可能真的开始跳舞 When we stop dancing, we truly start to dance." />
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="当我们有一天不跳舞了，我们才可能真的开始跳舞 When we stop dancing, we truly start to dance.">
+    
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://cindydii.github.io/xindicao.github.io/">
-  <img class="avatar" src="https://cindydii.github.io/xindicao.github.io//images/avatar.png?v=1692789617146" alt="">
-  </a>
-  <h1 class="site-title">
-    Cao Xindi
-  </h1>
-  <p class="site-description">
-    当我们有一天不跳舞了，我们才可能真的开始跳舞 When we stop dancing, we truly start to dance.
-  </p>
-  <div class="menu-container">
-    
-      
-        <a href="https://cindydii.github.io/xindicao.github.io/" class="menu">
-          Home
-        </a>
-      
-    
-      
-        <a href="https://cindydii.github.io/xindicao.github.io/archives" class="menu">
-          Writings
-        </a>
-      
-    
-      
-        <a href="/post/about" class="menu">
-          About
-        </a>
-      
-    
-  </div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-</div>
+    <div id="app" class="main">
 
-    
-        <div class="post-container">
-  
-    <article class="post">
-      <a href="https://cindydii.github.io/xindicao.github.io/post/yun-li-meng-li-guan-yun-men-wu-ji-lesslesshong-lou-meng-greatergreater/">
-        <h2 class="post-title">云里梦里——观云门舞集《红楼梦》</h2>
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://cindydii.github.io/xindicao.github.io/">
+        <img src="https://cindydii.github.io/xindicao.github.io//images/avatar.png?v=1692790185921" class="site-logo">
+        <h1 class="site-title">Cao Xindi</h1>
       </a>
-      <div class="post-info">
-        <span>
-          2017-04-24
-        </span>
-        <span>
-          6 min read
-        </span>
-        
-      </div>
-      
-        <a href="https://cindydii.github.io/xindicao.github.io/post/yun-li-meng-li-guan-yun-men-wu-ji-lesslesshong-lou-meng-greatergreater/" class="post-feature-image" style="background-image: url('https://cindydii.github.io/xindicao.github.io//post-images/yun-li-meng-li-guan-yun-men-wu-ji-lesslesshong-lou-meng-greatergreater.jpg')">
-        </a>
-      
-      <div class="post-abstract">
-        
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://cindydii.github.io/xindicao.github.io/post/nuo-dong-ni-de-xin-xu-guan-wu-ju-lesslessnuo-qing-greatergreater/">
-        <h2 class="post-title">“傩”动你的心绪——观舞剧《傩·情》</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2016-11-08
-        </span>
-        <span>
-          4 min read
-        </span>
-        
-      </div>
-      
-      <div class="post-abstract">
-        
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://cindydii.github.io/xindicao.github.io/post/dang-yun-men-yu-jian-ba-he-guan-yun-men-wu-ji-lesslessshui-yue-greatergreater/">
-        <h2 class="post-title">当云门遇见巴赫——观云门舞集《水月》</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2016-08-25
-        </span>
-        <span>
-          3 min read
-        </span>
-        
-      </div>
-      
-        <a href="https://cindydii.github.io/xindicao.github.io/post/dang-yun-men-yu-jian-ba-he-guan-yun-men-wu-ji-lesslessshui-yue-greatergreater/" class="post-feature-image" style="background-image: url('https://cindydii.github.io/xindicao.github.io//post-images/dang-yun-men-yu-jian-ba-he-guan-yun-men-wu-ji-lesslessshui-yue-greatergreater.jpeg')">
-        </a>
-      
-      <div class="post-abstract">
-        
-      </div>
-    </article>
-  
-</div>
-
-    
-        <div class="pagination-container">
-  
-    <a href="https://cindydii.github.io/xindicao.github.io/page/2/" class="prev-page">上一页</a>
-  
-  
-</div>
-
-    
-        <div class="site-footer">
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-  <a class="rss" href="https://cindydii.github.io/xindicao.github.io//atom.xml" target="_blank">
-    <i class="ri-rss-line"></i> RSS
-  </a>
-</div>
-
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
       </div>
     </div>
+    <div>
+      
+        
+          <a href="https://cindydii.github.io/xindicao.github.io/" class="site-nav">
+            Home
+          </a>
+        
+      
+        
+          <a href="https://cindydii.github.io/xindicao.github.io/archives" class="site-nav">
+            Writings
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            About
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      当我们有一天不跳舞了，我们才可能真的开始跳舞 When we stop dancing, we truly start to dance.
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://cindydii.github.io/xindicao.github.io//atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://cindydii.github.io/xindicao.github.io/post/dang-yun-men-yu-jian-ba-he-guan-yun-men-wu-ji-lesslessshui-yue-greatergreater/">
+                  <h2 class="post-title">当云门遇见巴赫——观云门舞集《水月》</h2>
+                </a>
+                <div class="post-date">
+                  2016-08-25
+                </div>
+                <div class="post-abstract">
+                  
+                </div>
+              </div>
+              
+                <a class="right" href="https://cindydii.github.io/xindicao.github.io/post/dang-yun-men-yu-jian-ba-he-guan-yun-men-wu-ji-lesslessshui-yue-greatergreater/">
+                  <div class="feature-container" style="background-image: url('https://cindydii.github.io/xindicao.github.io//post-images/dang-yun-men-yu-jian-ba-he-guan-yun-men-wu-ji-lesslessshui-yue-greatergreater.jpeg')">
+                  </div>
+                </a>
+              
+            </article>
+          
+
+          <div class="pagination-container">
+  
+    <a href="https://cindydii.github.io/xindicao.github.io/page/2/" class="prev"><i class="icon-arrow-ios-back-outline"></i> 上一页</a>
+  
+  
+</div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
   </body>
 </html>

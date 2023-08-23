@@ -1,91 +1,98 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" >
+
 <title>冬来春去——观香港城市当代舞蹈团《冬之旅·春之祭》 | Cao Xindi</title>
-<link rel="shortcut icon" href="https://cindydii.github.io/xindicao.github.io//favicon.ico?v=1692789617146">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://cindydii.github.io/xindicao.github.io//favicon.ico?v=1692790185921">
 <link rel="stylesheet" href="https://cindydii.github.io/xindicao.github.io//styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="冬来春去——观香港城市当代舞蹈团《冬之旅·春之祭》 | Cao Xindi - Atom Feed" href="https://cindydii.github.io/xindicao.github.io//atom.xml">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
     <meta name="description" content="冬之旅 Winterreise
 三年前听冬之旅，我说，舒伯特的冬之旅，又淡漠又暖的。那时我对冬之旅在讲什么一无所知，德语歌词对我来说也只是另一种音符了。后来我看了歌词——威廉·穆勒的诗，真的，淡漠的死亡气息，和暖的回忆温度融在一起。自然，淡..." />
     <meta name="keywords" content="" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://cindydii.github.io/xindicao.github.io/">
-  <img class="avatar" src="https://cindydii.github.io/xindicao.github.io//images/avatar.png?v=1692789617146" alt="">
-  </a>
-  <h1 class="site-title">
-    Cao Xindi
-  </h1>
-  <p class="site-description">
-    当我们有一天不跳舞了，我们才可能真的开始跳舞 When we stop dancing, we truly start to dance.
-  </p>
-  <div class="menu-container">
-    
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://cindydii.github.io/xindicao.github.io/">
+        <img src="https://cindydii.github.io/xindicao.github.io//images/avatar.png?v=1692790185921" class="site-logo">
+        <h1 class="site-title">Cao Xindi</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
       
-        <a href="https://cindydii.github.io/xindicao.github.io/" class="menu">
-          Home
-        </a>
+        
+          <a href="https://cindydii.github.io/xindicao.github.io/" class="site-nav">
+            Home
+          </a>
+        
       
-    
+        
+          <a href="https://cindydii.github.io/xindicao.github.io/archives" class="site-nav">
+            Writings
+          </a>
+        
       
-        <a href="https://cindydii.github.io/xindicao.github.io/archives" class="menu">
-          Writings
-        </a>
+        
+          <a href="/post/about" class="site-nav">
+            About
+          </a>
+        
       
-    
-      
-        <a href="/post/about" class="menu">
-          About
-        </a>
-      
-    
+    </div>
   </div>
-  <div class="social-container">
-    
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
       
-    
+        
       
-    
+        
       
-    
+        
       
-    
+        
       
-    
+        
+      
+    </div>
+    <div class="site-description">
+      当我们有一天不跳舞了，我们才可能真的开始跳舞 When we stop dancing, we truly start to dance.
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://cindydii.github.io/xindicao.github.io//atom.xml" target="_blank">RSS</a>
+    </div>
   </div>
 </div>
 
-        <div class="post-detail">
-          <article class="post">
-            <h2 class="post-title">
-              冬来春去——观香港城市当代舞蹈团《冬之旅·春之祭》
-            </h2>
-            <div class="post-info">
-              <span>
-                2019-07-26
-              </span>
-              <span>
-                8 min read
-              </span>
-              
-            </div>
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">冬来春去——观香港城市当代舞蹈团《冬之旅·春之祭》</h2>
+            <div class="post-date">2019-07-26</div>
             
-              <img class="post-feature-image" src="https://cindydii.github.io/xindicao.github.io//post-images/dong-lai-chun-qu-guan-xiang-gang-cheng-shi-dang-dai-wu-dao-tuan-lesslessdong-zhi-lu-chun-zhi-ji-greatergreater.jpeg" alt="">
+              <div class="feature-container" style="background-image: url('https://cindydii.github.io/xindicao.github.io//post-images/dong-lai-chun-qu-guan-xiang-gang-cheng-shi-dang-dai-wu-dao-tuan-lesslessdong-zhi-lu-chun-zhi-ji-greatergreater.jpeg')">
+              </div>
             
-            <div class="post-content-wrapper">
-              <div class="post-content">
-                <h1 id="冬之旅-winterreise">冬之旅 Winterreise</h1>
+            <div class="post-content" v-pre>
+              <h1 id="冬之旅-winterreise">冬之旅 Winterreise</h1>
 <p>三年前听冬之旅，我说，舒伯特的冬之旅，又淡漠又暖的。那时我对冬之旅在讲什么一无所知，德语歌词对我来说也只是另一种音符了。后来我看了歌词——威廉·穆勒的诗，真的，淡漠的死亡气息，和暖的回忆温度融在一起。自然，淡漠是主旋律。至于为什么在极度孤寂的段落也感受到了暖，大概只是个人偏好，明目张胆地辜负作曲家的心思了。孤独，为什么不是可以享受的状态呢？</p>
 <p>晚上躺在床上，打开音乐软件时，总是不由自主地点那张深蓝色的黄标唱片。尤其是第一首，让整个夜晚都变得深邃又温柔。后来我发现它的标题是Gute Nacht。</p>
 <p>I. Gute Nacht (第一乐章 晚安)<br>
@@ -141,80 +148,45 @@ London Symphony Orchestra - Stravinsky: The Firebird Suite &amp; The Rite of Spr
 <p>推荐托马斯·F·凯利 著《首演》，第五章详细记述了《春之祭》首演的前前后后，材料充分，很有意思。</p>
 <p>剧照来自城市当代舞蹈团，摄影：Cheung Chi Wai</p>
 
-              </div>
-              <div class="toc-container">
-                <ul class="markdownIt-TOC">
-<li><a href="#%E5%86%AC%E4%B9%8B%E6%97%85-winterreise">冬之旅 Winterreise</a></li>
-<li><a href="#%E6%98%A5%E4%B9%8B%E7%A5%AD-the-rite-of-spring">春之祭 The Rite of Spring</a></li>
-</ul>
-
-              </div>
             </div>
-          </article>
-        </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://cindydii.github.io/xindicao.github.io/post/liao-liao-ba-lei-min-zu-hua-de-kun-jing-you-ba-lei-wu-ju-lesslessbai-mao-nu-greatergreater-xiang-dao/">
+                  <h3 class="post-title">
+                    聊聊芭蕾民族化的困境——由芭蕾舞剧《白毛女》想到
+                  </h3>
+                </a>
+              </div>
+            
 
-        
-          <div class="next-post">
-            <div class="next">下一篇</div>
-            <a href="https://cindydii.github.io/xindicao.github.io/post/liao-liao-ba-lei-min-zu-hua-de-kun-jing-you-ba-lei-wu-ju-lesslessbai-mao-nu-greatergreater-xiang-dao/">
-              <h3 class="post-title">
-                聊聊芭蕾民族化的困境——由芭蕾舞剧《白毛女》想到
-              </h3>
-            </a>
+            
+
           </div>
-        
 
-        
-
-        <div class="site-footer">
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-  <a class="rss" href="https://cindydii.github.io/xindicao.github.io//atom.xml" target="_blank">
-    <i class="ri-rss-line"></i> RSS
-  </a>
-</div>
-
+        </div>
       </div>
     </div>
 
-    <script>
-      hljs.initHighlightingOnLoad()
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
 
-      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+AOS.init();
 
-      // This should probably be throttled.
-      // Especially because it triggers during smooth scrolling.
-      // https://lodash.com/docs/4.17.10#throttle
-      // You could do like...
-      // window.addEventListener("scroll", () => {
-      //    _.throttle(doThatStuff, 100);
-      // });
-      // Only not doing it here to keep this Pen dependency-free.
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
 
-      window.addEventListener("scroll", event => {
-        let fromTop = window.scrollY;
+</script>
 
-        mainNavLinks.forEach((link, index) => {
-          let section = document.getElementById(decodeURI(link.hash).substring(1));
-          let nextSection = null
-          if (mainNavLinks[index + 1]) {
-            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
-          }
-          if (section.offsetTop <= fromTop) {
-            if (nextSection) {
-              if (nextSection.offsetTop > fromTop) {
-                link.classList.add("current");
-              } else {
-                link.classList.remove("current");    
-              }
-            } else {
-              link.classList.add("current");
-            }
-          } else {
-            link.classList.remove("current");
-          }
-        });
-      });
 
-    </script>
+
+
+
+
   </body>
 </html>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cindydii.github.io/xindicao.github.io/</id>
     <title>Cao Xindi</title>
-    <updated>2023-08-23T11:20:46.255Z</updated>
+    <updated>2023-08-23T11:30:24.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cindydii.github.io/xindicao.github.io/"/>
     <link rel="self" href="https://cindydii.github.io/xindicao.github.io/atom.xml"/>
@@ -16,20 +16,6 @@
         <link href="https://cindydii.github.io/xindicao.github.io/post/zhe-shi-yi-pian-wu-ping-dan-zuo-pin-jiao-shi-me-bu-neng-shuo/">
         </link>
         <updated>2021-11-28T12:25:43.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上半年看过的剧场作品，以及为什么不再写舞评]]></title>
-        <id>https://cindydii.github.io/xindicao.github.io/post/shang-ban-nian-kan-guo-de-ju-chang-zuo-pin-yi-ji-wei-shi-me-bu-zai-xie-wu-ping/</id>
-        <link href="https://cindydii.github.io/xindicao.github.io/post/shang-ban-nian-kan-guo-de-ju-chang-zuo-pin-yi-ji-wei-shi-me-bu-zai-xie-wu-ping/">
-        </link>
-        <updated>2021-06-27T08:21:30.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一些暴言：以艺术之名反艺术]]></title>
-        <id>https://cindydii.github.io/xindicao.github.io/post/yi-xie-bao-yan-yi-yi-zhu-zhi-ming-fan-yi-zhu/</id>
-        <link href="https://cindydii.github.io/xindicao.github.io/post/yi-xie-bao-yan-yi-yi-zhu-zhi-ming-fan-yi-zhu/">
-        </link>
-        <updated>2021-04-17T14:54:42.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[换种方式做舞评 | 我们谈论的是关于我们谈论的是关于未来]]></title>
@@ -79,5 +65,19 @@
         <link href="https://cindydii.github.io/xindicao.github.io/post/dong-lai-chun-qu-guan-xiang-gang-cheng-shi-dang-dai-wu-dao-tuan-lesslessdong-zhi-lu-chun-zhi-ji-greatergreater/">
         </link>
         <updated>2019-07-26T05:44:16.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊聊芭蕾民族化的困境——由芭蕾舞剧《白毛女》想到]]></title>
+        <id>https://cindydii.github.io/xindicao.github.io/post/liao-liao-ba-lei-min-zu-hua-de-kun-jing-you-ba-lei-wu-ju-lesslessbai-mao-nu-greatergreater-xiang-dao/</id>
+        <link href="https://cindydii.github.io/xindicao.github.io/post/liao-liao-ba-lei-min-zu-hua-de-kun-jing-you-ba-lei-wu-ju-lesslessbai-mao-nu-greatergreater-xiang-dao/">
+        </link>
+        <updated>2019-06-28T05:47:59.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[问——观侯莹舞蹈剧场《坠入内在》]]></title>
+        <id>https://cindydii.github.io/xindicao.github.io/post/wen-guan-hou-ying-wu-dao-ju-chang-lesslesszhui-ru-nei-zai-greatergreater/</id>
+        <link href="https://cindydii.github.io/xindicao.github.io/post/wen-guan-hou-ying-wu-dao-ju-chang-lesslesszhui-ru-nei-zai-greatergreater/">
+        </link>
+        <updated>2019-05-12T05:50:17.000Z</updated>
     </entry>
 </feed>

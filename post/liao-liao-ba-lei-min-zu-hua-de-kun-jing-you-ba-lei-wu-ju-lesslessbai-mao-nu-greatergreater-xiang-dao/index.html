@@ -1,164 +1,140 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" >
+
 <title>聊聊芭蕾民族化的困境——由芭蕾舞剧《白毛女》想到 | Cao Xindi</title>
-<link rel="shortcut icon" href="https://cindydii.github.io/xindicao.github.io//favicon.ico?v=1692789617146">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://cindydii.github.io/xindicao.github.io//favicon.ico?v=1692790185921">
 <link rel="stylesheet" href="https://cindydii.github.io/xindicao.github.io//styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="聊聊芭蕾民族化的困境——由芭蕾舞剧《白毛女》想到 | Cao Xindi - Atom Feed" href="https://cindydii.github.io/xindicao.github.io//atom.xml">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
     <meta name="description" content="芭蕾民族化长久以来存在争议。也有质疑的声音。刘建老师认为“芭蕾中国化”是一个伪命题，他是从身体语言学出发的。简单来说就是什么样的身体跳什么样的舞。首先西方人的身高体格和身材比例对于芭蕾的审美取向具有先天优势（相对来说东方人的躯干比较长，在古..." />
     <meta name="keywords" content="" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://cindydii.github.io/xindicao.github.io/">
-  <img class="avatar" src="https://cindydii.github.io/xindicao.github.io//images/avatar.png?v=1692789617146" alt="">
-  </a>
-  <h1 class="site-title">
-    Cao Xindi
-  </h1>
-  <p class="site-description">
-    当我们有一天不跳舞了，我们才可能真的开始跳舞 When we stop dancing, we truly start to dance.
-  </p>
-  <div class="menu-container">
-    
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://cindydii.github.io/xindicao.github.io/">
+        <img src="https://cindydii.github.io/xindicao.github.io//images/avatar.png?v=1692790185921" class="site-logo">
+        <h1 class="site-title">Cao Xindi</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
       
-        <a href="https://cindydii.github.io/xindicao.github.io/" class="menu">
-          Home
-        </a>
+        
+          <a href="https://cindydii.github.io/xindicao.github.io/" class="site-nav">
+            Home
+          </a>
+        
       
-    
+        
+          <a href="https://cindydii.github.io/xindicao.github.io/archives" class="site-nav">
+            Writings
+          </a>
+        
       
-        <a href="https://cindydii.github.io/xindicao.github.io/archives" class="menu">
-          Writings
-        </a>
+        
+          <a href="/post/about" class="site-nav">
+            About
+          </a>
+        
       
-    
-      
-        <a href="/post/about" class="menu">
-          About
-        </a>
-      
-    
+    </div>
   </div>
-  <div class="social-container">
-    
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
       
-    
+        
       
-    
+        
       
-    
+        
       
-    
+        
       
-    
+        
+      
+    </div>
+    <div class="site-description">
+      当我们有一天不跳舞了，我们才可能真的开始跳舞 When we stop dancing, we truly start to dance.
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://cindydii.github.io/xindicao.github.io//atom.xml" target="_blank">RSS</a>
+    </div>
   </div>
 </div>
 
-        <div class="post-detail">
-          <article class="post">
-            <h2 class="post-title">
-              聊聊芭蕾民族化的困境——由芭蕾舞剧《白毛女》想到
-            </h2>
-            <div class="post-info">
-              <span>
-                2019-06-28
-              </span>
-              <span>
-                6 min read
-              </span>
-              
-            </div>
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">聊聊芭蕾民族化的困境——由芭蕾舞剧《白毛女》想到</h2>
+            <div class="post-date">2019-06-28</div>
             
-              <img class="post-feature-image" src="https://cindydii.github.io/xindicao.github.io//post-images/liao-liao-ba-lei-min-zu-hua-de-kun-jing-you-ba-lei-wu-ju-lesslessbai-mao-nu-greatergreater-xiang-dao.png" alt="">
+              <div class="feature-container" style="background-image: url('https://cindydii.github.io/xindicao.github.io//post-images/liao-liao-ba-lei-min-zu-hua-de-kun-jing-you-ba-lei-wu-ju-lesslessbai-mao-nu-greatergreater-xiang-dao.png')">
+              </div>
             
-            <div class="post-content-wrapper">
-              <div class="post-content">
-                <p>芭蕾民族化长久以来存在争议。也有质疑的声音。刘建老师认为“芭蕾中国化”是一个伪命题，他是从身体语言学出发的。简单来说就是什么样的身体跳什么样的舞。首先西方人的身高体格和身材比例对于芭蕾的审美取向具有先天优势（相对来说东方人的躯干比较长，在古典舞身韵以及现代舞身体开发中有更大空间），不过这么大的人口基数，在中国挑选出高挑且符合“三长一小”标准的芭蕾舞演员并不难。而看似可以通过训练改变的身体状态恰恰是芭蕾与中国艺术对冲最强烈的。如《白毛女》中的主人公喜儿在第一幕中是比较典型的中国含蓄女孩形象，这就要求把西方芭蕾高扬的下巴收起来。在体态上，为了突出革命的精神面貌，从尾椎折起的上身前倾成为多数演员的“标配”。这是属于中国女性、属于无产阶级的“气质”。这般中国化后的芭蕾还是芭蕾吗？这个问题牵涉到，一个舞种何以成为一个舞种？是手位脚位步伐技巧，还是“开绷直立，轻准稳美”的审美特征，还是历史社会孕育的独有气质？西方芭蕾教学内容不仅有基训和古典芭蕾，学生从历史生活舞学起，在礼节与仪态中培养贵族气质。如果有什么能给芭蕾注入灵魂，那应该是那种气质（不一定是贵族气质），至少不是阿拉贝斯克或是挥鞭转之类动作层面的东西。毕竟从学理的角度看仅仅用“融合借鉴”是遮不住这些瑕疵的，仅仅用“大家喜欢的就是好的”搪塞也是说不过去的。而且我个人觉得上半身民族或古典，下半身芭蕾的拼接法并不和谐。然而站在芭蕾刚传入中国的历史节点上，我们一方面要学西方（准确地说是苏联，因彼时中苏关系友好）的“高雅艺术”，一方面要立足本土，将芭蕾民族化又是必要的。</p>
+            <div class="post-content" v-pre>
+              <p>芭蕾民族化长久以来存在争议。也有质疑的声音。刘建老师认为“芭蕾中国化”是一个伪命题，他是从身体语言学出发的。简单来说就是什么样的身体跳什么样的舞。首先西方人的身高体格和身材比例对于芭蕾的审美取向具有先天优势（相对来说东方人的躯干比较长，在古典舞身韵以及现代舞身体开发中有更大空间），不过这么大的人口基数，在中国挑选出高挑且符合“三长一小”标准的芭蕾舞演员并不难。而看似可以通过训练改变的身体状态恰恰是芭蕾与中国艺术对冲最强烈的。如《白毛女》中的主人公喜儿在第一幕中是比较典型的中国含蓄女孩形象，这就要求把西方芭蕾高扬的下巴收起来。在体态上，为了突出革命的精神面貌，从尾椎折起的上身前倾成为多数演员的“标配”。这是属于中国女性、属于无产阶级的“气质”。这般中国化后的芭蕾还是芭蕾吗？这个问题牵涉到，一个舞种何以成为一个舞种？是手位脚位步伐技巧，还是“开绷直立，轻准稳美”的审美特征，还是历史社会孕育的独有气质？西方芭蕾教学内容不仅有基训和古典芭蕾，学生从历史生活舞学起，在礼节与仪态中培养贵族气质。如果有什么能给芭蕾注入灵魂，那应该是那种气质（不一定是贵族气质），至少不是阿拉贝斯克或是挥鞭转之类动作层面的东西。毕竟从学理的角度看仅仅用“融合借鉴”是遮不住这些瑕疵的，仅仅用“大家喜欢的就是好的”搪塞也是说不过去的。而且我个人觉得上半身民族或古典，下半身芭蕾的拼接法并不和谐。然而站在芭蕾刚传入中国的历史节点上，我们一方面要学西方（准确地说是苏联，因彼时中苏关系友好）的“高雅艺术”，一方面要立足本土，将芭蕾民族化又是必要的。</p>
 <p>所以芭蕾民族化面临着两难困境，到如今的《大红灯笼高高挂》《牡丹亭》《敦煌》等中国芭蕾作品依然褒贬不一。我想或许一个解决的方法就是让古典芭蕾、现代芭蕾、当代芭蕾顺着各自的轨迹发展，把重心放在中国古典舞和民族民间舞的发掘与创造上，先建立好自己的体系。或许当年的“芭蕾外交”把中国特色与西方芭蕾融合，是为了让外国友人接受，就像蜂蜜苦瓜那样。但我逐渐发现越来越多的西方人（尤其是舞蹈圈内人）对“真正的”中国舞蹈感兴趣，但他们并没有机会看到中国舞蹈。一次讲座上，我问美国的舞蹈教授，西方人眼中的中国舞蹈是怎样的？她说，她作为一个专业人士，对中国舞蹈的了解都非常非常少，对中国传统舞蹈的印象仅仅是京剧。我们有身韵汉唐敦煌，有藏蒙维朝傣，亦有我们自己的美学思想，纵使现在还有诸多问题，也足可以成为中国舞蹈艺术的名片了。之前看到一篇文章说，由于文化话语权在西方，亚洲长期以来在把自己的舞蹈通过某种方法“翻译”给西方，代价便是传统与特色的流失，外交场合下的中国芭蕾何尝不是这样一种“翻译”？当年的《白毛女》便起到了对外宣传新中国面貌的作用，也确实让一些外国领导人看到了中国人的无可比拟的革命激情。从外交的角度看这无疑是巨大的成功，但从艺术本身的角度出发，似乎是要打问号的。至少不能永远“翻译”下去。肢体语言本可以跨越国界。</p>
 <p>除了用作长辈怀旧的载体，与晚辈铭记历史，学习革命精神的教育意义之外，《白毛女》在今日的国家大剧院上演，似乎应该有其他现代价值。我想，不是每个时代都有地主恶霸和炽热的阶级斗争，但每个时代都有恶和与恶的斗争。我曾看到一个故事（我不确定事情的真实性，而且这个故事过于传奇，在此仅作为可能发生的事转述）大学生被绑架并拐卖至深山，被当成生孩子的机器受到非人虐待与奸污，并且作恶者为避免此（类）事暴露欲将其终生困于深山，这意味着不仅仅是她的青春，她的理想与未来都将埋葬于此。这个大学生在遭遇了种种侮辱后，选择制定周密的计划逃出深山。出逃的一个用于躲避的中转站就是山洞，她在里面住了两个月。这个当代故事与《白毛女》有着某些惊人的相似点，就像杨永信的那一套像极了《1984》里O’Brien的手段。当黄世仁、穆仁智，王大春、杨白劳模糊了面孔，只剩下喜儿晶亮的眼睛、挪动的足尖和高举的拳头，她依旧能向遥远未来的我们呼喊：即使被逼进山洞，也不要“认命”，更没有理由轻生。</p>
 <p>我们今天看到的芭蕾舞剧《白毛女》严格意义上讲并不是文革的样板戏。它的原型应该是1964年上海舞蹈学校的版本。文革时期的样板戏是根据江青的意见改编而来的（如加强“武装斗争”主线，更多请见文末迷惑行为），但这些意见并不符合艺术本身的表达需要，为了强调主题僵化和扭曲了作品本身，因而在文革后这些改动基本都被恢复。不过，即使在成为样板戏之前，《白毛女》所受到的政治与政治文化的影响也很大。我由衷敬佩那个时代的艺术家，在如此多的限制里依然能把舞蹈的表意做得这么到位。他们要么改造自己，让自己在这种环境中依然随心所欲不逾矩，要么小心翼翼地寻找外界要求与个人表达的平衡，在定规下的作品中悄悄塞进一些“自我”。</p>
 
-              </div>
-              <div class="toc-container">
-                
-              </div>
             </div>
-          </article>
-        </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://cindydii.github.io/xindicao.github.io/post/wen-guan-hou-ying-wu-dao-ju-chang-lesslesszhui-ru-nei-zai-greatergreater/">
+                  <h3 class="post-title">
+                    问——观侯莹舞蹈剧场《坠入内在》
+                  </h3>
+                </a>
+              </div>
+            
 
-        
-          <div class="next-post">
-            <div class="next">下一篇</div>
-            <a href="https://cindydii.github.io/xindicao.github.io/post/wen-guan-hou-ying-wu-dao-ju-chang-lesslesszhui-ru-nei-zai-greatergreater/">
-              <h3 class="post-title">
-                问——观侯莹舞蹈剧场《坠入内在》
-              </h3>
-            </a>
+            
+
           </div>
-        
 
-        
-
-        <div class="site-footer">
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-  <a class="rss" href="https://cindydii.github.io/xindicao.github.io//atom.xml" target="_blank">
-    <i class="ri-rss-line"></i> RSS
-  </a>
-</div>
-
+        </div>
       </div>
     </div>
 
-    <script>
-      hljs.initHighlightingOnLoad()
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
 
-      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+AOS.init();
 
-      // This should probably be throttled.
-      // Especially because it triggers during smooth scrolling.
-      // https://lodash.com/docs/4.17.10#throttle
-      // You could do like...
-      // window.addEventListener("scroll", () => {
-      //    _.throttle(doThatStuff, 100);
-      // });
-      // Only not doing it here to keep this Pen dependency-free.
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
 
-      window.addEventListener("scroll", event => {
-        let fromTop = window.scrollY;
+</script>
 
-        mainNavLinks.forEach((link, index) => {
-          let section = document.getElementById(decodeURI(link.hash).substring(1));
-          let nextSection = null
-          if (mainNavLinks[index + 1]) {
-            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
-          }
-          if (section.offsetTop <= fromTop) {
-            if (nextSection) {
-              if (nextSection.offsetTop > fromTop) {
-                link.classList.add("current");
-              } else {
-                link.classList.remove("current");    
-              }
-            } else {
-              link.classList.add("current");
-            }
-          } else {
-            link.classList.remove("current");
-          }
-        });
-      });
 
-    </script>
+
+
+
+
   </body>
 </html>

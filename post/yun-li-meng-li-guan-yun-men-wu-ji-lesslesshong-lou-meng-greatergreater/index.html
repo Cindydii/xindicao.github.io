@@ -1,90 +1,97 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" >
+
 <title>云里梦里——观云门舞集《红楼梦》 | Cao Xindi</title>
-<link rel="shortcut icon" href="https://cindydii.github.io/xindicao.github.io//favicon.ico?v=1692789617146">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://cindydii.github.io/xindicao.github.io//favicon.ico?v=1692790185921">
 <link rel="stylesheet" href="https://cindydii.github.io/xindicao.github.io//styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="云里梦里——观云门舞集《红楼梦》 | Cao Xindi - Atom Feed" href="https://cindydii.github.io/xindicao.github.io//atom.xml">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
     <meta name="description" content="大概可以片面地认为，云门舞集的红楼梦在舞蹈语言上尚处于探寻阶段。很多段落有现代芭蕾的感觉，除了吸腿翻身类似物以外，技巧都是芭蕾体系内的。双人舞技法显然也是芭蕾的一套。但中国传统舞蹈元素的运用也十分明显，据推测不是从中国古典舞体系借鉴的，而是..." />
     <meta name="keywords" content="" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://cindydii.github.io/xindicao.github.io/">
-  <img class="avatar" src="https://cindydii.github.io/xindicao.github.io//images/avatar.png?v=1692789617146" alt="">
-  </a>
-  <h1 class="site-title">
-    Cao Xindi
-  </h1>
-  <p class="site-description">
-    当我们有一天不跳舞了，我们才可能真的开始跳舞 When we stop dancing, we truly start to dance.
-  </p>
-  <div class="menu-container">
-    
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://cindydii.github.io/xindicao.github.io/">
+        <img src="https://cindydii.github.io/xindicao.github.io//images/avatar.png?v=1692790185921" class="site-logo">
+        <h1 class="site-title">Cao Xindi</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
       
-        <a href="https://cindydii.github.io/xindicao.github.io/" class="menu">
-          Home
-        </a>
+        
+          <a href="https://cindydii.github.io/xindicao.github.io/" class="site-nav">
+            Home
+          </a>
+        
       
-    
+        
+          <a href="https://cindydii.github.io/xindicao.github.io/archives" class="site-nav">
+            Writings
+          </a>
+        
       
-        <a href="https://cindydii.github.io/xindicao.github.io/archives" class="menu">
-          Writings
-        </a>
+        
+          <a href="/post/about" class="site-nav">
+            About
+          </a>
+        
       
-    
-      
-        <a href="/post/about" class="menu">
-          About
-        </a>
-      
-    
+    </div>
   </div>
-  <div class="social-container">
-    
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
       
-    
+        
       
-    
+        
       
-    
+        
       
-    
+        
       
-    
+        
+      
+    </div>
+    <div class="site-description">
+      当我们有一天不跳舞了，我们才可能真的开始跳舞 When we stop dancing, we truly start to dance.
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://cindydii.github.io/xindicao.github.io//atom.xml" target="_blank">RSS</a>
+    </div>
   </div>
 </div>
 
-        <div class="post-detail">
-          <article class="post">
-            <h2 class="post-title">
-              云里梦里——观云门舞集《红楼梦》
-            </h2>
-            <div class="post-info">
-              <span>
-                2017-04-24
-              </span>
-              <span>
-                6 min read
-              </span>
-              
-            </div>
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">云里梦里——观云门舞集《红楼梦》</h2>
+            <div class="post-date">2017-04-24</div>
             
-              <img class="post-feature-image" src="https://cindydii.github.io/xindicao.github.io//post-images/yun-li-meng-li-guan-yun-men-wu-ji-lesslesshong-lou-meng-greatergreater.jpg" alt="">
+              <div class="feature-container" style="background-image: url('https://cindydii.github.io/xindicao.github.io//post-images/yun-li-meng-li-guan-yun-men-wu-ji-lesslesshong-lou-meng-greatergreater.jpg')">
+              </div>
             
-            <div class="post-content-wrapper">
-              <div class="post-content">
-                <p>大概可以片面地认为，云门舞集的红楼梦在舞蹈语言上尚处于探寻阶段。很多段落有现代芭蕾的感觉，除了吸腿翻身类似物以外，技巧都是芭蕾体系内的。双人舞技法显然也是芭蕾的一套。但中国传统舞蹈元素的运用也十分明显，据推测不是从中国古典舞体系借鉴的，而是直接从太极、戏曲中提取的。穿披风的女子们走得那么快那么平稳，能想象到被披风挡住的圆场步。黑衣人的一些造型也很有戏曲风格。</p>
+            <div class="post-content" v-pre>
+              <p>大概可以片面地认为，云门舞集的红楼梦在舞蹈语言上尚处于探寻阶段。很多段落有现代芭蕾的感觉，除了吸腿翻身类似物以外，技巧都是芭蕾体系内的。双人舞技法显然也是芭蕾的一套。但中国传统舞蹈元素的运用也十分明显，据推测不是从中国古典舞体系借鉴的，而是直接从太极、戏曲中提取的。穿披风的女子们走得那么快那么平稳，能想象到被披风挡住的圆场步。黑衣人的一些造型也很有戏曲风格。</p>
 <pre><code>    渐渐明白，我们根本没有权利指望中国艺术家创作出很“好”的现代舞。偶然看到郭明达为一本书写的跋里一句话：“本书跨度长达两百年，揭示了西方社会因工业化形成的城市文化上层建筑，舞蹈的动态大大有别于农业文化舞蹈的’多识于草木鸟兽之名’（如卧鱼、射雁、兰花手......）”产生在西方工业文明之上的西方现代舞，召集了一批西方人文主义思想之下的西方艺术家，他们聚集在现代舞旗帜下，表达对自由、社会、现实的观念。从经济基础到上层建筑到最重要的文化思想，中国都和西方不在一个频道上，就算物质水平已经比较高，文化也有西化的趋向，毕竟在思维方式上几千年的积淀很难磨得掉。但个人认为现代舞的确是一种适应现代社会的表达方式，如果我们能摸索出自己的一套使用这种表达方式的方法，那么许多无处安放的思想也许就能找到归宿了。我想云门舞集正是在进行这样的探索，如今它的舞渐渐得到西方的认可，真令人鼓舞。关于上面那句话，我还想起多年前观看的高艳津子《三更雨·愿》，那是我接触的第一部现代舞作品，表现的正是花鸟鱼虫草，语言却的确是现代舞语言，现在想起来，雨声中窸窸窣窣念叨的，是东方文化里特别美丽的话题——轮回。云门的早期和后期作品，不都在从中国文化里汲取养分吗？我最初以为现代舞全是现代人释放、革新、追求自由的场地。对现代舞和现代音乐，你可以笑着说：人们真是越来越叛逆了，亦可以一脸悲痛：过去的时代永远回不来了。可伊莎多拉·邓肯最初就是想复活古希腊舞蹈，并借希腊艺术表现人的情操啊。她是现代舞之母啊。人们想要复古的心，何时何地都不会变啊。
    说回红楼梦。
    从头到尾，我寻踪觅迹，猜那些披着大花披风的女子都是谁，颇费心思。有些很容易看出来，而有些到全剧终也没猜出。直到演员表开始滚动，舞者名字前的称呼只是“白衣女子”、“金黄衣女子”、“紫衣女子”、“青衣女子”……一愣。云门舞集本无心让我知道她们都是谁，也并未打算把这些女子一一对应到红楼梦人物表。她们只是穿着各色披风的情态各异的女子，游荡行走穿插在自己与别人的世界。反是我，寻寻觅觅，猜猜疑疑，反反复复，忙碌了八十分钟，实是一场空。精明一世，大爱一场，繁盛几载，哀怨几时，皆以白茫茫大地真干净收束。都这样，一回头，是空无。至多，是个虚化的影子。
@@ -95,76 +102,45 @@
 音乐的某些部分让我莫名想起钢琴宫调式·小喇叭的赋格。黑衣人出现时的琵琶与管弦各自行进，很有意思。中国的味道很浓，诡异的气氛很重。听完整部舞剧的音乐，我觉得我好像能忍受巴托克等人了......</p>
 <p>这是高二时的旧文重提了。一些字句如今看来已经十分生涩幼稚，但还是不愿改掉，权当保留成长的足迹了。至今每每看到文学作品改编的舞剧，还是会想起云门舞集的《红楼梦》，因为它有原著之外自己的灵魂。</p>
 
-              </div>
-              <div class="toc-container">
-                
-              </div>
             </div>
-          </article>
-        </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://cindydii.github.io/xindicao.github.io/post/nuo-dong-ni-de-xin-xu-guan-wu-ju-lesslessnuo-qing-greatergreater/">
+                  <h3 class="post-title">
+                    “傩”动你的心绪——观舞剧《傩·情》
+                  </h3>
+                </a>
+              </div>
+            
 
-        
-          <div class="next-post">
-            <div class="next">下一篇</div>
-            <a href="https://cindydii.github.io/xindicao.github.io/post/nuo-dong-ni-de-xin-xu-guan-wu-ju-lesslessnuo-qing-greatergreater/">
-              <h3 class="post-title">
-                “傩”动你的心绪——观舞剧《傩·情》
-              </h3>
-            </a>
+            
+
           </div>
-        
 
-        
-
-        <div class="site-footer">
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-  <a class="rss" href="https://cindydii.github.io/xindicao.github.io//atom.xml" target="_blank">
-    <i class="ri-rss-line"></i> RSS
-  </a>
-</div>
-
+        </div>
       </div>
     </div>
 
-    <script>
-      hljs.initHighlightingOnLoad()
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
 
-      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+AOS.init();
 
-      // This should probably be throttled.
-      // Especially because it triggers during smooth scrolling.
-      // https://lodash.com/docs/4.17.10#throttle
-      // You could do like...
-      // window.addEventListener("scroll", () => {
-      //    _.throttle(doThatStuff, 100);
-      // });
-      // Only not doing it here to keep this Pen dependency-free.
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
 
-      window.addEventListener("scroll", event => {
-        let fromTop = window.scrollY;
+</script>
 
-        mainNavLinks.forEach((link, index) => {
-          let section = document.getElementById(decodeURI(link.hash).substring(1));
-          let nextSection = null
-          if (mainNavLinks[index + 1]) {
-            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
-          }
-          if (section.offsetTop <= fromTop) {
-            if (nextSection) {
-              if (nextSection.offsetTop > fromTop) {
-                link.classList.add("current");
-              } else {
-                link.classList.remove("current");    
-              }
-            } else {
-              link.classList.add("current");
-            }
-          } else {
-            link.classList.remove("current");
-          }
-        });
-      });
 
-    </script>
+
+
+
+
   </body>
 </html>
