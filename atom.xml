@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cindydii.github.io/xindicao.github.io/</id>
     <title>Cao Xindi</title>
-    <updated>2023-08-23T10:42:56.510Z</updated>
+    <updated>2023-08-23T11:20:46.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cindydii.github.io/xindicao.github.io/"/>
     <link rel="self" href="https://cindydii.github.io/xindicao.github.io/atom.xml"/>
@@ -11,25 +11,11 @@
     <icon>https://cindydii.github.io/xindicao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Cao Xindi</rights>
     <entry>
-        <title type="html"><![CDATA[夹层 | 只要这帮最激进的人都去做剧场了，社会就稳定了。]]></title>
-        <id>https://cindydii.github.io/xindicao.github.io/post/jia-ceng-or-zhi-yao-zhe-bang-zui-ji-jin-de-ren-du-qu-zuo-ju-chang-liao-she-hui-jiu-wen-ding-liao/</id>
-        <link href="https://cindydii.github.io/xindicao.github.io/post/jia-ceng-or-zhi-yao-zhe-bang-zui-ji-jin-de-ren-du-qu-zuo-ju-chang-liao-she-hui-jiu-wen-ding-liao/">
-        </link>
-        <updated>2022-02-23T05:08:45.000Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[这是一篇舞评。但作品叫什么不能说。]]></title>
         <id>https://cindydii.github.io/xindicao.github.io/post/zhe-shi-yi-pian-wu-ping-dan-zuo-pin-jiao-shi-me-bu-neng-shuo/</id>
         <link href="https://cindydii.github.io/xindicao.github.io/post/zhe-shi-yi-pian-wu-ping-dan-zuo-pin-jiao-shi-me-bu-neng-shuo/">
         </link>
         <updated>2021-11-28T12:25:43.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夹层 | 撸猫是不是也是一种CI]]></title>
-        <id>https://cindydii.github.io/xindicao.github.io/post/jia-ceng-or-lu-mao-shi-bu-shi-ye-shi-yi-chong-ci/</id>
-        <link href="https://cindydii.github.io/xindicao.github.io/post/jia-ceng-or-lu-mao-shi-bu-shi-ye-shi-yi-chong-ci/">
-        </link>
-        <updated>2021-11-08T05:04:13.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[上半年看过的剧场作品，以及为什么不再写舞评]]></title>
@@ -79,5 +65,19 @@
         <link href="https://cindydii.github.io/xindicao.github.io/post/na-xie-shan-yu-na-zuo-shan-guan-roy-assaf-dancelesslessyi-wan-greatergreater-zhi-lesslessshan-po-greatergreater/">
         </link>
         <updated>2019-10-31T06:45:04.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[绳结，载旧忆而快乐新生]]></title>
+        <id>https://cindydii.github.io/xindicao.github.io/post/sheng-jie-zai-jiu-yi-er-kuai-le-xin-sheng/</id>
+        <link href="https://cindydii.github.io/xindicao.github.io/post/sheng-jie-zai-jiu-yi-er-kuai-le-xin-sheng/">
+        </link>
+        <updated>2019-10-18T06:50:26.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冬来春去——观香港城市当代舞蹈团《冬之旅·春之祭》]]></title>
+        <id>https://cindydii.github.io/xindicao.github.io/post/dong-lai-chun-qu-guan-xiang-gang-cheng-shi-dang-dai-wu-dao-tuan-lesslessdong-zhi-lu-chun-zhi-ji-greatergreater/</id>
+        <link href="https://cindydii.github.io/xindicao.github.io/post/dong-lai-chun-qu-guan-xiang-gang-cheng-shi-dang-dai-wu-dao-tuan-lesslessdong-zhi-lu-chun-zhi-ji-greatergreater/">
+        </link>
+        <updated>2019-07-26T05:44:16.000Z</updated>
     </entry>
 </feed>
