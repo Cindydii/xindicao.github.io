@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cindydii.github.io/xindicao.github.io/</id>
     <title>Cao Xindi</title>
-    <updated>2023-08-23T11:30:24.187Z</updated>
+    <updated>2023-08-23T11:36:05.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cindydii.github.io/xindicao.github.io/"/>
     <link rel="self" href="https://cindydii.github.io/xindicao.github.io/atom.xml"/>
@@ -18,66 +18,10 @@
         <updated>2021-11-28T12:25:43.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[换种方式做舞评 | 我们谈论的是关于我们谈论的是关于未来]]></title>
-        <id>https://cindydii.github.io/xindicao.github.io/post/huan-chong-fang-shi-zuo-wu-ping-or-wo-men-tan-lun-de-shi-guan-yu-wo-men-tan-lun-de-shi-guan-yu-wei-lai/</id>
-        <link href="https://cindydii.github.io/xindicao.github.io/post/huan-chong-fang-shi-zuo-wu-ping-or-wo-men-tan-lun-de-shi-guan-yu-wo-men-tan-lun-de-shi-guan-yu-wei-lai/">
+        <title type="html"><![CDATA[Cao Xindi | Works]]></title>
+        <id>https://cindydii.github.io/xindicao.github.io/post/works-cao-xindi/</id>
+        <link href="https://cindydii.github.io/xindicao.github.io/post/works-cao-xindi/">
         </link>
-        <updated>2020-10-31T08:35:26.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被表演艺术拒绝的故事]]></title>
-        <id>https://cindydii.github.io/xindicao.github.io/post/bei-biao-yan-yi-zhu-ju-jue-de-gu-shi/</id>
-        <link href="https://cindydii.github.io/xindicao.github.io/post/bei-biao-yan-yi-zhu-ju-jue-de-gu-shi/">
-        </link>
-        <updated>2020-04-08T05:26:50.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“观念”的危险——面对“不知所云艺术家”]]></title>
-        <id>https://cindydii.github.io/xindicao.github.io/post/guan-nian-de-wei-xian-mian-dui-bu-zhi-suo-yun-yi-zhu-jia/</id>
-        <link href="https://cindydii.github.io/xindicao.github.io/post/guan-nian-de-wei-xian-mian-dui-bu-zhi-suo-yun-yi-zhu-jia/">
-        </link>
-        <updated>2020-04-07T08:28:21.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[万物所乘——云门舞集与陶身体《交换作》所容纳的]]></title>
-        <id>https://cindydii.github.io/xindicao.github.io/post/wan-wu-suo-cheng-yun-men-wu-ji-yu-tao-shen-ti-lesslessjiao-huan-zuo-greatergreater-suo-rong-na-de/</id>
-        <link href="https://cindydii.github.io/xindicao.github.io/post/wan-wu-suo-cheng-yun-men-wu-ji-yu-tao-shen-ti-lesslessjiao-huan-zuo-greatergreater-suo-rong-na-de/">
-        </link>
-        <updated>2019-11-15T05:40:24.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那些山与那座山——观Roy Assaf Dance《一晚》之《山坡》]]></title>
-        <id>https://cindydii.github.io/xindicao.github.io/post/na-xie-shan-yu-na-zuo-shan-guan-roy-assaf-dancelesslessyi-wan-greatergreater-zhi-lesslessshan-po-greatergreater/</id>
-        <link href="https://cindydii.github.io/xindicao.github.io/post/na-xie-shan-yu-na-zuo-shan-guan-roy-assaf-dancelesslessyi-wan-greatergreater-zhi-lesslessshan-po-greatergreater/">
-        </link>
-        <updated>2019-10-31T06:45:04.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[绳结，载旧忆而快乐新生]]></title>
-        <id>https://cindydii.github.io/xindicao.github.io/post/sheng-jie-zai-jiu-yi-er-kuai-le-xin-sheng/</id>
-        <link href="https://cindydii.github.io/xindicao.github.io/post/sheng-jie-zai-jiu-yi-er-kuai-le-xin-sheng/">
-        </link>
-        <updated>2019-10-18T06:50:26.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冬来春去——观香港城市当代舞蹈团《冬之旅·春之祭》]]></title>
-        <id>https://cindydii.github.io/xindicao.github.io/post/dong-lai-chun-qu-guan-xiang-gang-cheng-shi-dang-dai-wu-dao-tuan-lesslessdong-zhi-lu-chun-zhi-ji-greatergreater/</id>
-        <link href="https://cindydii.github.io/xindicao.github.io/post/dong-lai-chun-qu-guan-xiang-gang-cheng-shi-dang-dai-wu-dao-tuan-lesslessdong-zhi-lu-chun-zhi-ji-greatergreater/">
-        </link>
-        <updated>2019-07-26T05:44:16.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊聊芭蕾民族化的困境——由芭蕾舞剧《白毛女》想到]]></title>
-        <id>https://cindydii.github.io/xindicao.github.io/post/liao-liao-ba-lei-min-zu-hua-de-kun-jing-you-ba-lei-wu-ju-lesslessbai-mao-nu-greatergreater-xiang-dao/</id>
-        <link href="https://cindydii.github.io/xindicao.github.io/post/liao-liao-ba-lei-min-zu-hua-de-kun-jing-you-ba-lei-wu-ju-lesslessbai-mao-nu-greatergreater-xiang-dao/">
-        </link>
-        <updated>2019-06-28T05:47:59.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[问——观侯莹舞蹈剧场《坠入内在》]]></title>
-        <id>https://cindydii.github.io/xindicao.github.io/post/wen-guan-hou-ying-wu-dao-ju-chang-lesslesszhui-ru-nei-zai-greatergreater/</id>
-        <link href="https://cindydii.github.io/xindicao.github.io/post/wen-guan-hou-ying-wu-dao-ju-chang-lesslesszhui-ru-nei-zai-greatergreater/">
-        </link>
-        <updated>2019-05-12T05:50:17.000Z</updated>
+        <updated>1900-08-31T07:07:43.000Z</updated>
     </entry>
 </feed>
